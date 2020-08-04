@@ -1,0 +1,1 @@
+A simple package to aid understanding setting up unit tests with Go. 
